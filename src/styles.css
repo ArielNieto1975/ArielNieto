@@ -1,0 +1,19 @@
+@import url("https://fonts.googleapis.com/css2?family=Raleway:wght@300;400;700&display=swap");
+
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  background: var(--fondo2);
+  min-height: 100vh;
+}
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Raleway";
+}
+:root {
+  --col-de-fondo: #e5d1fa;
+  --col-de-link: #000;
+  --fondo2: #c1aefc;
+}
